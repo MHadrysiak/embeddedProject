@@ -11,7 +11,7 @@
 #define FREQ 5000
 #define CHANNEL 0
 #define RES 8
-#define STANDARD_TEMPERATURE 20
+#define STANDARD_TEMPERATURE 16
 
 void tempHandler(void *arg);
 void comHandler(void *arg);
